@@ -1,0 +1,4 @@
+Welcome to Github!
+Follow along with the video to create a few files.
+You will also learn to create and switch between
+branches of your repository.
